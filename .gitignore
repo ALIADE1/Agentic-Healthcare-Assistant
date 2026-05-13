@@ -1,0 +1,11 @@
+# Environments
+venv/
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Database and Vectorstore
+patient_db.json
+chroma_db/
