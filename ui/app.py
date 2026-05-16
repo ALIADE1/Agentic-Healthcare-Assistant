@@ -4,7 +4,7 @@ import streamlit as st
 from dotenv import load_dotenv
 
 # Ensure the root project directory is in the sys path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Load environment variables (GROQ_API_KEY)
 load_dotenv()
