@@ -28,20 +28,20 @@ pip install -r requirements.txt
 streamlit run ui/app.py
 ```
 
-## q&a
+## Questions we can ask
 - yo what's my blood type?
 - yo do i have any allergies?
 - yo do i have any chronic conditions?
 - yo do i have any past surgeries?
 - yo do i have any current medications?
 - yo do i have any family history of any diseases?
-- yo what is my blood pressure?
-- yo what is my heart rate?
-- yo what is my respiratory rate?
-- yo what is my temperature?
-- yo what is my oxygen saturation?
-- yo what is my blood glucose level?
-- yo what is my cholesterol level?
-- yo what is my triglyceride level?
+- what is covid-19?
+- what is diabetes?
+- what is hypertension?
+- what is asthma?
+- what is arthritis?
+- what is cancer?
 
-# after we get the patient data, we will use the medical rag to get the medical information
+
+
+## after we get the patient data, we will use the medical rag to get the medical information
