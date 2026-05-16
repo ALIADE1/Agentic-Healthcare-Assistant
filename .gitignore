@@ -9,3 +9,6 @@ __pycache__/
 # Database and Vectorstore
 patient_db.json
 chroma_db/
+
+# version control
+.venv/

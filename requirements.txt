@@ -4,6 +4,9 @@ langchain-groq
 sentence-transformers
 langchain-huggingface
 chromadb
+langchain-chroma
+langchain-text-splitters
+torchvision
 pydantic
 fastapi
 streamlit
